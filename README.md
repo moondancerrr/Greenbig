@@ -4,7 +4,7 @@
 
 #  Overview
 
-This project is designed to train and fine-tune a deep learning model, BigBro (a variant of BigBird with RoFormer positional encoding), for token classification tasks across 115 species of plants. The primary aim is to develop a machine learning model that can accurately classify each token of gene sequences based on species-specific features and gene annotations, using transformer-based architectures. The code utilizes PyTorch Lightning for efficient model training and management of experiments, along with Hugging Face Transformers to handle tokenization and the transformer model.
+This project is designed to train and fine-tune a deep learning model, BigBro (a variant of BigBird with RoFormer positional encoding), for token classification tasks across 115 species of plants. The primary aim is to develop a machine learning model that can accurately classify each token of gene sequences based on species-specific features and gene annotations, using transformer-based architectures. The code utilizes PyTorch Lightning for efficient model training and management of experiments, along with Hugging Face Transformers to handle tokenization and the transformer model. It is a model that is aware of the evolutionary context and that predicts how RNA sequences are spliced with the assumption that they belong to a given genome.
 
 #  Key Features:
 
