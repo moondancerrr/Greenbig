@@ -1,6 +1,8 @@
-#  greenbig
-
 #  BigBro for Token Classification - Splicing prediction
+
+## Note:
+
+Due to GitHub's space limitations, the dataset used in this project could not be included in this repository. You can generate the dataset from Greenbigdata repo.
 
 ##  Overview
 
